@@ -3,8 +3,8 @@ import duckHome from '../images/duckduckhunt-home.png';
 import duckHome2 from '../images/duckduckhunt-home2.png';
 import bpaInv from '../images/bpa-inventory.png';
 import bpaLogo from '../images/bpa-logo.png';
-import zenGarden from '../images/zen-garden.png';
-import zenGarden2 from '../images/zen-garden2.png';
+// import zenGarden from '../images/zen-garden.png';
+// import zenGarden2 from '../images/zen-garden2.png';
 import zenVideo from '../images/zen-video.mov';
 import { Link } from 'react-router-dom';
 
